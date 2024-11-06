@@ -1,0 +1,12 @@
+title      : chtholly.qvq
+lang       : zh
+description: 编程
+copyright  : © 2018 - 2024 chtholly.qvq All Rights Reserved
+
+nav:
+ - name: me
+   link: /
+ - name: code-life
+   link: /code-life/
+ - name: about
+   link: /about/
